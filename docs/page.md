@@ -1,6 +1,6 @@
 layout: page
 title: "MAIN"
-permalink: /blog/
+permalink: /blog/main
 
 **Hi all,**
 
