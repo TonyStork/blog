@@ -23,7 +23,7 @@ So I need to take step back, well, actually two, because as I re-installed versi
 ### Node-Red
 Official website of Node-Red treats newbies really nice because offers many [tutorials](https://nodered.org/docs/) *"how to make flows"*. My first go-to-flow was, surprisingly, *Hello World!*, as I was curious how I can connect different nodes, so they can communicate between each other, send right information and show it in dashboard.
 This was incredibly easy to do, as nodes visually represents part of codes, that you don't have to connect through code manually, but automatically create link between them, so no more coding is required. 
-So *voilà*, I can send information from flow to dashboard and actually see it. Nice. Then I made dashboard button that will send information, so after pressing "Hello World!" button message appears. Nice.
+So *voilà*, I can send information from flow to dashboard and actually see it. Nice. Then I made dashboard button that will send information, so after pressing "Hello World!" button message appears.
 
 ### Dashboard
 Next step was clear - find a way **to connect dashboard with TCP/IP Slave Simulator**, so they will interact between each other. I installed **_node-red-contrib-modbus node_**, that allow me to create nodes which communicate with simulator through ports. 
