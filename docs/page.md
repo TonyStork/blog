@@ -6,7 +6,7 @@ permalink: /blog/
 
 my name is *Milan Kochan* and I would like to share my experience with **Node-Red** as I've started to work with this platform for first time in my life.
 I don't see myself as an experienced programmer at all, even it is my field of study for last two years. Basic knowledge of programming languages such as *C++*, *PHP* or *HTML* was good starting point for me. 
-Initial aim for me was **_to make fully compatible Node-Red user interface page_** which can send commands to external device and recieve data as well.
+Initial aim for me was **_to make fully compatible Node-Red user interface page_** which can send commands to external device and recieve data from it as well.
 
 
 ### So my firts step
