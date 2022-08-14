@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MAIN
-permalink: /blog/main/
+permalink: /main/
 ---
 
 **Hi all,**
